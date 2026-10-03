@@ -2,13 +2,15 @@
 
 > **Read-only archive of released versions of dynastyking/flarum-lang-ptbr.** Not for installation: use [Packagist](https://packagist.org/packages/dynastyking/flarum-lang-ptbr) or the [upstream repository](https://github.com/DynastyKing/flarum-lang-ptbr).
 
-**0** versions archived · Latest: [`0.1.2`](https://github.com/flarchive/dynastyking-flarum-lang-ptbr/tree/archive/v0.1.2) · License: `MIT` · Flarum: `^0.1.0-beta.8`
+**3** versions archived · Latest: [`0.1.2`](https://github.com/flarchive/dynastyking-flarum-lang-ptbr/tree/archive/v0.1.2) · License: `MIT` · Flarum: `^0.1.0-beta.8`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `0.1.0` | 2019-04-12 | `^0.1.0-beta.8` | [Browse](https://github.com/flarchive/dynastyking-flarum-lang-ptbr/tree/archive/v0.1.0) |
+| `0.1.1` | 2019-04-15 | `^0.1.0-beta.8` | [Browse](https://github.com/flarchive/dynastyking-flarum-lang-ptbr/tree/archive/v0.1.1) |
+| `0.1.2` | 2019-04-23 | `^0.1.0-beta.8` | [Browse](https://github.com/flarchive/dynastyking-flarum-lang-ptbr/tree/archive/v0.1.2) |
 
 Catalog entry: [packages/dynastyking-flarum-lang-ptbr.json](https://github.com/flarchive/archive-index/blob/main/packages/dynastyking-flarum-lang-ptbr.json)
 
